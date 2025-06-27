@@ -21,7 +21,7 @@ A work-in-progress 2D tower defense game using the Godot game engine with GDScri
 
 
 ## Synfo - System Information
-This was my first JavaFX project. It's a general system information application, allowing you to quickly and reliably get information about your computer system.
+This was my first JavaFX project. It's a general system information application.
 ![Synfo](https://github.com/user-attachments/assets/4bef0dcd-1e2b-41af-a17e-d377ae624374)
 
 # Tools & Languages
