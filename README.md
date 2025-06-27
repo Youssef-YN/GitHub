@@ -12,7 +12,7 @@
 ## Full-Stack Web Application for NTT Data
 NTT Data is a leader in the IT world, providing services for more than 75% of the fortune 500 companies.
 I'm very glad I got the opportunity to lead my team of 6 software engineering students at ENSET throughout this project.
-It was quite challenging but we're very proud with how well the project turned out
+It was quite challenging but we're very proud of how well the project turned out
 
 ![NTTData](https://github.com/user-attachments/assets/d2d45732-451d-4f1f-8118-af2893245564)
 
@@ -31,7 +31,7 @@ This was my first JavaFX project. It's a general system information application.
 
 # Tools & Languages
 ## Godot
-The main game engine I'm using for my video game projects. It's powerful with an amazing node system, especially with it's composition-first philosophy. I'm using it for 2 on going projects right now.
+The main game engine I'm using for my video game projects. It's powerful with an amazing node system, especially with its composition-first philosophy. I'm using it for 2 on going projects right now.
 ## Angular
 This was the first front-end framework I ever worked with. It was specified in our "cahier de charges" for the NTT Data project and I learned so much from it that I would not have learned otherwise. A steep learning curve for someone that hasn't used a framework before, but definitely worth it.
 ## C#
