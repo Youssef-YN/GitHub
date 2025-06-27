@@ -10,7 +10,7 @@
 
 # My projects
 ## Full-Stack Web Application for NTT Data
-NTT Data is a leader in the IT world, providing services for more than 75% of the fortune 500 companies.
+NTT Data is a leader in the IT world, providing services for more than 75% of the global fortune 100 companies, quite the impressive track record.
 I'm very glad I got the opportunity to lead my team of 6 software engineering students at ENSET throughout this project.
 It was quite challenging but we're very proud of how well the project turned out
 
