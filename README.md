@@ -1,6 +1,6 @@
-<h1 align="center">
+<p align="center">
   <img src="https://github.com/Youssef-YN/GitHub/raw/main/assets/pfp.png" height="256">
-</h1>
+</p>
 
 <p align="center">
   <a href="https://github.com/Youssef-YN">
