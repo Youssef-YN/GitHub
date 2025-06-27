@@ -10,18 +10,23 @@
 
 # My projects
 ## Full-Stack Web Application for NTT Data
-NTT Data is a leader in the IT world, providing services for more than 75% of the fortune 500 companies. I'm very glad I got the opportunity to work with them and improve my skills.
+NTT Data is a leader in the IT world, providing services for more than 75% of the fortune 500 companies.
+I'm very glad I got the opportunity to lead my team of 6 software engineering students at ENSET throughout this project.
+It was quite challenging but we're very proud with how well the project turned out
+
 ![NTTData](https://github.com/user-attachments/assets/d2d45732-451d-4f1f-8118-af2893245564)
 
 
 ## RogueTD - 2D Tower Defense Game
 A work-in-progress 2D tower defense game using the Godot game engine with GDScript as the main programming language. This is my first serious video game project and it serves as a stepping stone allowing me to learn more about the Godot Engine.
+
 ![RogueTD](https://github.com/user-attachments/assets/48635286-3b1f-4d66-86c1-9681ca42a2ce)
 
 
 
 ## Synfo - System Information
 This was my first JavaFX project. It's a general system information application.
+
 ![Synfo](https://github.com/user-attachments/assets/4bef0dcd-1e2b-41af-a17e-d377ae624374)
 
 # Tools & Languages
