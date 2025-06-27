@@ -1,6 +1,5 @@
 <h1 align="center">
-  The only lead developer you'll ever need  
-  <img src="https://github.com/Youssef-YN/GitHub/raw/main/assets/pfp.png" height="28">
+  <img src="https://github.com/Youssef-YN/GitHub/raw/main/assets/pfp.png" height="256">
 </h1>
 
 <p align="center">
